@@ -7,5 +7,6 @@
 
 最终看板效果
 
+看板下载：https://github.com/Nutrition-S/Data-Profession-BreakDown/raw/refs/heads/main/Data%20Professional%20BreakDown.pbix
 
 <img width="602" height="335" alt="Data Profession BreakDown" src="https://github.com/user-attachments/assets/52610256-fd34-4daa-acb2-2960e548bfff" />
