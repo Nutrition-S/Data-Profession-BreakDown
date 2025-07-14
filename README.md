@@ -1,6 +1,6 @@
 # Data-Profession-BreakDown
 一份来自Alex The Analyst 网红设计并收集的调查问卷，他是一名数据分析师，也是一名知识付费博主，为了更充分的了解频道观众的背景，他设计了一份调查问卷，调查了参与者职业和教育背景等知识，本项目利用这份问卷的数据，分析观众的背景组成
-数据来源：https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx
+数据来源：https://github.com/AlexTheAnalyst
 原数据下载：[Power BI - Data Profession Background.xlsx](https://github.com/user-attachments/files/21211578/Power.BI.-.Data.Profession.Background.xlsx)
 
 
